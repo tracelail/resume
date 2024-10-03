@@ -1,0 +1,77 @@
+# subject: Experiences
+# listing-order: 2
+# icon: "/assets/img/briefcase.svg"
+# contents:
+#   - title: Nanosoft
+#     role: Project Manager
+#     description:
+#       - Led development of a new chatbot software utilizing large language model
+#       - Co-designer of '*Kopilot*' and '*Gemmini*'
+#     date: Jan. 2024 - Ongoing
+#   - title: Amazone
+#     role: Senior Software Engineer
+#     description: 
+#       - Built a Java microservice, database schema to manage customer accounts
+#       - Enhanced internal pipelines to query real-time data from client devices
+#     date: Apr. 2016 - Dec. 2018
+#   - title: Pacebook
+#     role: Software Engineer Intern
+#     description: 
+#       - Designed the dynamic website using React for data visualization
+#       - Integrated '*Yolo*' to boost the accuracy of the object detection
+#     date: Jul. 2013 - Sep. 2013
+
+subject: Experiences
+listing-order: 3
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: BridgeBio Gene Therapy
+    role: Senior Associate Scientist (Computational Genetics Mentorship)
+    description:
+      - Completed RNA sequencing, differential gene expression, and gene ontology analytics project of mouse brain tissue via Jupyter Notebook
+      - Used GitHub for repository contributions
+      - Created a GitHub repository that aggregates and transforms data from cell culture passaging, production bioreactors, and analytical assays into an R Shiny dashboard to streamline the TDO AAV upstream teams decisions for AAV particle creation optimization
+      - Curated a table of monogenic indications amendable to AAV gene therapy from multiple data sources
+      - Used AWS EC2 instance for project development
+      - Used OOP to generate custom plasmid GTF (Gene Transfer Format) files for nf-core RNAseq pipeline analysis
+      - Performed multiple comparison nf-core differential abundance pipeline analyses via Seqera and locally
+      - Generated redacted reproducible dataset and parameters for nf-core differential abundance pipeline troubleshooting and GitHub issue ticket submission
+      - Used published datasets to validate gene target for indication
+      - Presented analysis results and conclusions to affiliates
+    date: May 2023 - Present
+    location: Raleigh, NC
+
+  - title: BridgeBio Gene Therapy
+    role: Senior Associate Scientist
+    description:
+      - Conducted cell passaging of HEK293 cells for triple transfection
+      - Executed production-scale experiments, optimizing processes for gene therapy drug candidates from Ambr15 to 200L STR
+      - Authored upstream process descriptions
+      - Presented experiment findings at team and department meetings
+      - Supported technical transfer and scale-up of processes for manufacturing campaigns
+      - Provided data verification for experimental findings
+      - Assisted in laboratory equipment service and PM
+    date: Jan. 2023 - Present
+    location: Raleigh, NC
+
+  - title: BridgeBio Gene Therapy
+    role: Scientific Associate II
+    description:
+      - Utilized Python and R for data management, analytics, and visualization
+      - Conducted cell culture of HEK293 cells for AAV gene therapies at various scales
+      - Collaborated in process development for gene therapy drug candidates
+      - Assisted in protocol and process description authoring
+      - Delivered presentations of data and experiments in CMC meetings
+      - Contributed to development work plans and technical transfer
+      - Ensured proper documentation and data verification
+      - Supported laboratory equipment maintenance
+    date: Apr. 2021 - Jan. 2023
+    location: Raleigh, NC
+
+  - title: Seqirus
+    role: Scientific Associate I
+    description:
+      - Engaged in technical development and cell culture projects, following SOP and Good Documentation Practices
+      - Collaborated with diverse teams on analytical and problem-solving projects
+    date: Oct. 2019 - Mar. 2021
+    location: Holly Springs, NC
